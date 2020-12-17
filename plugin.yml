@@ -1,8 +1,8 @@
 name: EconomyGamble
-main: hm\EconomyGamble\EconomyGamble
+main: MakerbakerYT\EconomyGamble
 version: 2.0-alpha
-author: hmm
-api: [1.4.1]
+author: MakerbakerYT
+api: [3.14.0, 4.0.0]
 
 commands:
  gamblehow:
