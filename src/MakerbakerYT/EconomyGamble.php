@@ -6,7 +6,7 @@
  *  ＼ ＼_＼ ＼ _＼＼ ＼_＼ ＼_＼
  *   ＼/_/  ＼/__/   ＼/_/ ＼/__/
  * ( *you can redistribute it and/or modify *) */
-namespace hm\EconomyGamble;
+namespace MakerbakerYT\EconomyGamble;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
